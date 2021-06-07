@@ -1,0 +1,9 @@
+#### I was supposed to depict the architecture of VGG16 to use in our article. 
+After a series of researches on the Internet, I found some codes and solutions in which my concern had been addressed 
+by utilizing a Keras utility called visualkeras. I adopted it and customized it to fit in our transfer learning approach. 
+Here, I have provided it for you. I hope it would be useful.
+
+My Refrence: https://github.com/paulgavrikov/visualkeras
+
+
+pip install git+https://github.com/paulgavrikov/visualkeras
